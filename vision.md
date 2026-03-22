@@ -1,3 +1,7 @@
+---
+icon: lightbulb
+---
+
 # Vision
 
 Most decentralized systems fail for structural reasons, not technical limitations.
